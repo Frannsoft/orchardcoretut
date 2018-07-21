@@ -1,0 +1,13 @@
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\bin\Release\netcoreapp2.1\ModularApplication.deps.json
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\bin\Release\netcoreapp2.1\ModularApplication.runtimeconfig.json
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\bin\Release\netcoreapp2.1\ModularApplication.runtimeconfig.dev.json
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\bin\Release\netcoreapp2.1\ModularApplication.dll
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\bin\Release\netcoreapp2.1\ModularApplication.pdb
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\obj\Release\netcoreapp2.1\ModularApplication.csproj.CoreCompileInputs.cache
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\obj\Release\netcoreapp2.1\ModularApplication.RazorAssemblyInfo.cache
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\obj\Release\netcoreapp2.1\ModularApplication.RazorAssemblyInfo.cs
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\obj\Release\netcoreapp2.1\ModularApplication.AssemblyInfoInputs.cache
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\obj\Release\netcoreapp2.1\ModularApplication.AssemblyInfo.cs
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\obj\Release\netcoreapp2.1\ModularApplication.RazorTargetAssemblyInfo.cache
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\obj\Release\netcoreapp2.1\ModularApplication.dll
+E:\Development\C#projects\orchardcore_learning\OrchardCoreLearning\ModularApplication\obj\Release\netcoreapp2.1\ModularApplication.pdb

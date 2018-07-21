@@ -1,0 +1,8 @@
+&1217338112 sitethree:
+  RequestUrlHost: localhost
+  RequestUrlPrefix: sitethree
+  DatabaseProvider: Sqlite
+  TablePrefix: &1321097225 ~
+  ConnectionString: ~
+  State: Uninitialized
+...

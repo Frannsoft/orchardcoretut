@@ -1,0 +1,8 @@
+Default:
+  RequestUrlHost: localhost,orchardcorecmstestfranndotexe.azurewebsites.net
+  RequestUrlPrefix: &843862881 ~
+  DatabaseProvider: Sqlite
+  TablePrefix: ~
+  ConnectionString: ~
+  State: Running
+...

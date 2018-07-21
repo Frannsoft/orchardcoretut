@@ -1,0 +1,8 @@
+&342080453 sitetwo:
+  RequestUrlHost: &1467845165 ~
+  RequestUrlPrefix: sitetwo
+  DatabaseProvider: Sqlite
+  TablePrefix: ~
+  ConnectionString: ~
+  State: Uninitialized
+...
